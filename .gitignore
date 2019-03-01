@@ -1,0 +1,10 @@
+keys.txt
+#keys there
+*.log
+#logs there
+
+/logs/*3.log
+!test1.txt
+??st1.txt
+
+index.*
